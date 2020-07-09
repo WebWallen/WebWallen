@@ -30,17 +30,17 @@ That said, I've also seen some front end developer positions that might be a goo
 
 ### To learn more about me and how I can help your company reach a new level, visit the links below. 
 
-Portfolio: 
+Portfolio:<br/>
 https://danielwallen.dev
 
-Resume: 
+Resume:<br/>
 https://danielwallen.dev/resume.html
 
-Perfect Job Description (What I'm Best At):
+Perfect Job Description (What I'm Best At):<br/>
 https://danielwallen.dev/job-description.html
 
-Recent Project (Pet Adoption Website for the Tri-Cities of TN/VA):
+Recent Project (Pet Adoption Website for the Tri-Cities of TN/VA):<br/>
 https://tripets.org
 
-LinkedIn: 
+LinkedIn:<br/>
 https://linkedin.com/in/webwallen
