@@ -11,6 +11,7 @@ Used the phrase "tech role" instead of "web developer" because my skills extend 
 💻 2,000+ hours of code experience<br/>
 💼 B.S. in business (management/marketing)<br/>
 🖋️ 10+ years of creative and copywriting experience<br/>
+💪 Strong in HTML, CSS, JavaScript, Node, React, and Python<br/>
 📰 200+ articles and 5 best-selling Amazon Kindle books published<br/>
 📈 Millions of people reached via social media marketing and SEO strategy<br/>
 🐕 122 shelter dogs walked and promoted online, 113 of whom found good homes<br/>
