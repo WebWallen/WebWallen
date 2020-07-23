@@ -23,9 +23,9 @@ As you can see, my skills are diverse (not to mention powerful as heck when comb
 
 -Sales Engineer<br/>
 -Support Engineer<br/>
--Developer Advocate<br/>
--Technical Evangelist<br/>
--Customer Relationship Management<br/>
+-Implementation Engineer<br/>
+-Customer Success Engineer<br/>
+-Technical Success Engineer<br/>
 
 That said, I've also seen some front end developer positions that might be a good match. 
 
