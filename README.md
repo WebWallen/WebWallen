@@ -29,7 +29,7 @@ As you can see, my skills are diverse (not to mention powerful as heck when comb
 
 That said, I've also seen some content and front end development positions that looked like fun. 
 
-### To learn more about me and how I can help you raise your online game, visit the links below. 
+### To learn more about me and how I can raise your online game, visit the links below. 
 
 Portfolio:<br/>
 https://danielwallen.dev
