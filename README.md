@@ -40,5 +40,5 @@ https://dogfatherdigital.com
 Recent Project:<br/>
 https://tripets.org
 
-LinkedIn:<br/>
+LinkedIn Profile:<br/>
 https://linkedin.com/in/webwallen
