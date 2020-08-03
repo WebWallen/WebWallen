@@ -17,7 +17,7 @@ Currently seeking a position with a tech start-up located in: TN, VA, NC, SC, OH
 
 As you can see, my greatest strengths are diverse (not to mention powerful as heck when combined together). 
 
-### Based on an abundance of research and reflection, tech jobs jobs that sound like a good fit include:
+### Based on an abundance of research and reflection, tech jobs that sound like a good fit include:
 
 -Sales Engineer<br/>
 -Optimization Analyst<br/>
