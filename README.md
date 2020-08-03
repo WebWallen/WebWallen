@@ -2,7 +2,7 @@
 
 I'm an Internet Architect and Performance Marketer from Kingsport, TN.
 
-Currently seeking a tech role with a start-up in: TN, VA, NC, SC, OH, or UT.
+Currently seeking a tech role with a start-up located in: TN, VA, NC, SC, OH, or UT.
 
 Used the phrase "tech role" instead of "web developer" because my skills extend beyond development. 
 
