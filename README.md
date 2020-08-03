@@ -6,7 +6,7 @@ Currently seeking a tech role with a start-up located in: TN, VA, NC, SC, OH, or
 
 Used the phrase "tech role" instead of "web developer" because my skills extend beyond development. 
 
-### Note the short list of accomplishments and performance metrics for an illustration of what I mean.
+### Accomplishments and performance metrics to illustrate what I mean.
 
 💻 2,000+ hours of code experience<br/>
 💼 B.S. in business (management/marketing)<br/>
@@ -17,22 +17,22 @@ Used the phrase "tech role" instead of "web developer" because my skills extend 
 🐕 125 shelter dogs walked and promoted online, 115 of whom found good homes<br/>
 🏆 Named "Volunteer of the Month" by the animal shelter (story covered by my hometown newspaper)
 
-As you can see, my greatest skills are diverse (not to mention powerful as heck when combined together). 
+As you can see, my greatest strengths are diverse (not to mention powerful as heck when combined together). 
 
 ### Based on research and reflection, technology + online marketing jobs that sound like a good fit include:
 
 -Sales Engineer<br/>
 -Optimization Analyst<br/>
+-Digital Content Manager<br/>
 -Implementation Manager<br/>
 -Implementation Engineer<br/>
--Digital Content Manager<br/>
--Customer Success Manager<br/>
 -Technical Success Manager<br/>
--Customer Success Engineer<br/>
 -Technical Success Engineer<br/>
+-Customer Success Manager<br/>
+-Customer Success Engineer<br/>
 -Online Marketing Specialist<br/>
--Content Marketing Specialist<br/>
 -Digital Marketing Specialist<br/>
+-Content Marketing Specialist<br/>
 
 That said, I've also seen some developer advocate and technology evangelist positions that looked like a dream come true. 
 
