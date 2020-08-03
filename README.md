@@ -36,13 +36,7 @@ As you can see, my greatest strengths are diverse (not to mention powerful as he
 
 That said, I've also seen some developer advocate and technology evangelist positions that looked like a dream come true. 
 
-### To learn more about me and how I can help raise your online game, visit the three links below...
-
-Tri Pets (Pet Adoption Website for Kingsport, TN):<br/>
-https://tripets.org 
-
-Dogfather Digital (Web Design and Online Marketing Agency):<br/>
-https://dogfatherdigital.com 
+### To learn more about me and how I can raise your online game, visit the link below...
 
 Daniel Wallen - Internet Architect (Online Portfolio and Resume):<br/>
 https://danielwallen.dev
