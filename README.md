@@ -2,11 +2,9 @@
 
 I'm an Internet Architect and Performance Marketer from Kingsport, TN.
 
-Currently seeking a tech role with a start-up located in: TN, VA, NC, SC, OH, or UT.
+Currently seeking a position with a tech start-up located in: TN, VA, NC, SC, OH, or UT.
 
-Used the phrase "tech role" instead of "web developer" because my skills extend beyond development. 
-
-### Accomplishments and performance metrics to illustrate what I mean.
+### Accomplishments and performance metrics:
 
 💻 2,000+ hours of code experience<br/>
 💼 B.S. in business (management/marketing)<br/>
@@ -19,7 +17,7 @@ Used the phrase "tech role" instead of "web developer" because my skills extend 
 
 As you can see, my greatest strengths are diverse (not to mention powerful as heck when combined together). 
 
-### Based on research and reflection, technology + online marketing jobs that sound like a good fit include:
+### Based on an abundance of research and reflection, tech jobs jobs that sound like a good fit include:
 
 -Sales Engineer<br/>
 -Optimization Analyst<br/>
