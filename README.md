@@ -34,7 +34,7 @@ As you can see, my greatest skills are diverse (not to mention powerful as heck 
 -Content Marketing Specialist<br/>
 -Digital Marketing Specialist<br/>
 
-That said, I've also seen some developer advocate and evangelist positions that sounded like a dream come true. 
+That said, I've also seen some developer advocate and technology evangelist positions that looked like a dream come true. 
 
 ### To learn more about me and how I can help raise your online game, visit the three links below...
 
