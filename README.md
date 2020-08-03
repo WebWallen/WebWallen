@@ -19,7 +19,7 @@ Used the phrase "tech role" instead of "web developer" because my skills extend 
 
 As you can see, my greatest skills are diverse (not to mention powerful as heck when combined together). 
 
-### Tech and online marketing roles that would be an ideal fit include:
+### Based on research and reflection, technology + online marketing jobs that sound like a good fit include:
 
 -Sales Engineer<br/>
 -Optimization Analyst<br/>
