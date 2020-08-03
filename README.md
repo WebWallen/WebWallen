@@ -32,7 +32,7 @@ As you can see, my greatest strengths are diverse (not to mention powerful as he
 -Digital Marketing Specialist<br/>
 -Content Marketing Specialist<br/>
 
-That said, I've also seen some developer advocate and technology evangelist positions that looked like a dream come true. 
+That said, I've also seen some developer advocate and technology evangelist positions that sounded fun. 
 
 ### To learn more about me and how I can raise your online game, visit the link below...
 
