@@ -2,7 +2,7 @@
 
 I'm an Internet Architect and Performance Marketer from Kingsport, TN.
 
-Currently seeking a position with a tech start-up located in: TN, VA, NC, SC, OH, or UT.
+Currently seeking a remote role with a tech company (preferably a start-up!). 
 
 ### Accomplishments and performance metrics:
 
@@ -20,6 +20,7 @@ As you can see, my greatest strengths are diverse (not to mention powerful as he
 ### Based on an abundance of research and reflection, tech jobs that sound like a good fit include:
 
 -Sales Engineer<br/>
+-Community Manager<br/>
 -Optimization Analyst<br/>
 -Digital Content Manager<br/>
 -Implementation Manager<br/>
