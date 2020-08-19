@@ -10,7 +10,7 @@ Currently seeking a remote role with a tech company (preferably a start-up!).
 💼 B.S. in business (management/marketing)<br/>
 🖋️ 10+ years of creative and copywriting experience<br/>
 💪 Strong in HTML, CSS, JavaScript, Node, React, and Python<br/>
-📰 200+ articles and 5 best-selling Amazon Kindle books published<br/>
+📰 200+ articles published, many of which reached Google's page #1<br/>
 📈 Millions of people reached via social media marketing and SEO strategy<br/>
 🐕 125 shelter dogs walked and promoted online, 115 of whom found good homes<br/>
 🏆 Named "Volunteer of the Month" by the animal shelter (story covered by my hometown newspaper)
