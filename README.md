@@ -20,20 +20,14 @@ As you can see, my greatest strengths are diverse (not to mention powerful as he
 ### Based on an abundance of research and reflection, tech jobs that sound like a good fit include:
 
 -Sales Engineer<br/>
--Community Manager<br/>
--Optimization Analyst<br/>
--Digital Content Manager<br/>
--Implementation Manager<br/>
--Implementation Engineer<br/>
--Technical Success Manager<br/>
--Technical Success Engineer<br/>
--Customer Success Manager<br/>
+-Support Engineer<br/>
 -Customer Success Engineer<br/>
--Online Marketing Specialist<br/>
--Digital Marketing Specialist<br/>
--Content Marketing Specialist<br/>
 
-That said, I've also seen some developer advocate and technology evangelist positions that sounded fun. 
+Even better, why not let me create my own role that combines all of the above?
+
+Customer Sales, Success, and Support Engineer (CSSSE). You've gotta admit there's a nice ring to it!
+
+More generally, I'm also open to content and online marketing roles that allow me to flex my user engagement and optimization muscles.
 
 ### To learn more about me and how I can raise your online game, visit the link below...
 
