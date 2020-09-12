@@ -1,6 +1,6 @@
 ### Daniel "Dogfather" Wallen here. 👋
 
-I'm an Internet Architect from Kingsport, TN.
+I'm an Internet Architect who lives in Kingsport, TN.
 
 Currently seeking a remote role with a tech company (preferably a start-up!). 
 
