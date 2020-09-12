@@ -1,8 +1,10 @@
 ### Hello there! Daniel "Dogfather" Wallen speaking. 👋
 
-I'm an Internet Architect and Performance Marketer from Kingsport, TN.
+I'm an Internet Architect from Kingsport, TN.
 
 Currently seeking a remote role with a tech company (preferably a start-up!). 
+
+My mission is to build digital real estate that attracts and converts clients at scale while you're asleep.
 
 ### Accomplishments and performance metrics:
 
