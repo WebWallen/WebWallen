@@ -1,4 +1,4 @@
-### Hello there! Daniel "Dogfather" Wallen speaking. 👋
+### Daniel "Dogfather" Wallen here. 👋
 
 I'm an Internet Architect from Kingsport, TN.
 
