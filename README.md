@@ -1,3 +1,3 @@
-Dog lover + polymath who designs and develops delightful websites (fast). Accessible and responsive, too. 
+Dog lover + polymath who designs and develops delightful websites (fast).
 
 "Madness and Me" is coming soon to an Internet near you...
