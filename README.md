@@ -1,7 +1,5 @@
-Don't let the lack of green squares fool you. As seen in the pinned projects, I code a LOT.
+Freelance web designer specializing in websites for service businesses and providers.
 
-I'm a dog lover + polymath who designs and develops delightful websites (fast).
+Skills include: SEO, copywriting, content marketing, community outreach, and responsive web design.
 
-Currently accepting web design clients and dream job offers.
-
-See what I can do for you at www.DanielWallen.dev
+See what I can do for your start-up or service business at the following link... www.DanielWallen.dev
