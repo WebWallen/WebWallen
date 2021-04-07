@@ -5,8 +5,8 @@
 3. Second most important financial goal? Buy farmland to care for stray dogs.<br/>
 4. Only open to remote roles now (because I serve as a care-giver for dad).<br/>
 5. I've been remote for six years now (best part: choose your own music).<br/>
-6. Music taste is all over the place (from death metal to Taylor Swift).<br/>
-7. Once pitched a reality TV show idea to Animal Planet (dog related).<br/>
+6. Once pitched a reality TV show idea to Animal Planet (dog related).<br/>
+7. Music taste is all over the place (from death metal to Taylor Swift).<br/>
 
 ## In Process (Updated 04/07/21)
 
