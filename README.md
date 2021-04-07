@@ -1,6 +1,6 @@
 ## Fun Facts (Updated 04/07/21)
 
-Once pitched a reality TV show idea to Animal Planet (dog related).
+Once pitched a reality TV show idea to Animal Planet (dog related).&ensp;
 Aspires to mimic the training program Bruce Wayne used to become Batman.
 Most important financial goal? Retire mom so she can stop working forever.
 Second most important financial goal? Buy farmland to care for stray dogs.
