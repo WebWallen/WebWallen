@@ -8,12 +8,6 @@
 6. I've been remote for six years now (best part: choose your own music).<br/>
 7. Music taste is all over the place (from death metal to Taylor Swift).<br/>
 
-## Now What?
-
-A. Connect on LinkedIn ---> linkedin.com/in/WebWallen<br/>
-B. Friend on Facebook ---> facebook.com/WebWallen<br/>
-C. Follow on Twitter ---> twitter.com/WebWallen<br/>
-
 ## In Process (Updated (04/07/21)
 
 1. Cold email and market research strategy for a digital agency.<br/>
