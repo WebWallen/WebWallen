@@ -15,5 +15,5 @@
 3. Launching websites and digital marketing campaigns for local small businesses.
 4. Experimenting with data warehouses like AWS Redshift and Google BigQuery.
 5. Optimizing habits, systems, routines, processes, and other work stuff.
-6. Building a few content-heavy projects (read more on [Amazon](https://www.amazon.com/Daniel-Wallen/e/B00CF67IUM)).
-7. Thinking about the best ways to think about everything.
+6. Thinking about the best ways to think about everything that matters.
+7. Building a multiverse of creative projects (read more on [Amazon](https://www.amazon.com/Daniel-Wallen/e/B00CF67IUM)).
